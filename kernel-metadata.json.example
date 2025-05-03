@@ -1,0 +1,10 @@
+{
+    "id": "martinimarcello00/nlp-project",
+    "title": "NLP RAG12K dataset",
+    "code_file": "NLP-project.ipynb",
+    "language": "python",
+    "kernel_type": "notebook",
+    "is_private": "true",
+    "enable_gpu": "true",
+    "enable_internet": "true"
+  }
