@@ -1,0 +1,17 @@
+pandas
+plotly
+itables
+matplotlib
+seaborn
+tqdm
+nltk
+datasets
+gensim
+wordcloud
+scikit-learn
+sentence-transformers
+bertopic
+transformers
+ipywidgets
+ipython
+torch
