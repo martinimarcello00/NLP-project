@@ -16,3 +16,5 @@ ipywidgets
 ipython
 torch
 bert_score
+evaluate
+rouge_score
