@@ -176,3 +176,5 @@ cython_debug/
 # Kernel metadata
 kernel-metadata.json
 profanity_words.txt
+
+/toxic-bert
