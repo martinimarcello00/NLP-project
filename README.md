@@ -11,10 +11,10 @@
 
 This project was developed by a  team of students from Politecnico di Milano:
 
-- ![**Asja Attanasio**](https://www.linkedin.com/in/asjaattanasio/)
-- ![**Daniele Laganà**](https://www.linkedin.com/in/danielelagana/)
-- ![**Marcello Martini**](https://www.linkedin.com/in/martinimarcello00/)
-- ![**Gianluigi Palmisano**](https://www.linkedin.com/in/gianluigi-palmisano/)
+- [**Asja Attanasio**](https://www.linkedin.com/in/asjaattanasio/)
+- [**Daniele Laganà**](https://www.linkedin.com/in/danielelagana/)
+- [**Marcello Martini**](https://www.linkedin.com/in/martinimarcello00/)
+- [**Gianluigi Palmisano**](https://www.linkedin.com/in/gianluigi-palmisano/)
 
 ## 📋 Project Overview
 
